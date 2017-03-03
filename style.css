@@ -4,6 +4,10 @@ body {
 	text-align: center;
 }
 
+a {
+text-decoration: none;
+}
+
 #header {
 	background-color: #2149DF;
 	color: red;
