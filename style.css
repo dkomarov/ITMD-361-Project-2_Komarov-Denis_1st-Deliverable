@@ -8,11 +8,6 @@ text-decoration: none;
 
 }
 
-#header {
-	background-color: #2149DF;
-	color: red;
-}
-
 #footer {
 	background-color: white;
 	color: red;
@@ -23,18 +18,38 @@ background-color: #15D3CA;
 
 }
 
+#header_cod {
+	background-color: #FCE60A;
+	color: black;
+}
+
+
 #container_cod{
 
 background-color: #101010;
 color: white;
 }
+
+#header_massage {
+	background-color: #2149DF;
+	color: #46E639;
+}
+
 #container_massage{
 background-color: #46E639;
 color: blue;
 
 }
+
+
+#header_resume {
+	background-color: #FC990A;
+	color: #2149DF;
+}
+
 #container_resume{
 
 background-color: #2149DF;
 color: white;
 }
+
