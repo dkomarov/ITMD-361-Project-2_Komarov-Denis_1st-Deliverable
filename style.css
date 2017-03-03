@@ -5,6 +5,7 @@ body {
 
 a {
 text-decoration: none;
+
 }
 
 #header {
@@ -25,14 +26,15 @@ background-color: #15D3CA;
 #container_cod{
 
 background-color: #101010;
-
+color: white;
 }
 #container_massage{
 background-color: #46E639;
+color: blue;
 
 }
 #container_resume{
 
 background-color: #2149DF;
-
+color: white;
 }
