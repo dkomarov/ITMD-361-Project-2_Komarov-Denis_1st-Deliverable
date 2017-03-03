@@ -1,5 +1,4 @@
 body {
-	background-color: #46E639;
 	font-family: Arial, sans-serif, Times New Roman;
 	text-align: center;
 }
@@ -14,6 +13,26 @@ text-decoration: none;
 }
 
 #footer {
-	background-color: #2149DF;
+	background-color: white;
 	color: red;
+}
+
+#container_index{
+background-color: #15D3CA;
+
+}
+
+#container_cod{
+
+background-color: #101010;
+
+}
+#container_massage{
+background-color: #46E639;
+
+}
+#container_resume{
+
+background-color: #2149DF;
+
 }
