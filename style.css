@@ -13,6 +13,13 @@ text-decoration: none;
 	color: red;
 }
 
+ul {
+    list-style: none;
+}
+li {
+     list-style: none;
+}
+
 #container_index {
 background-color: white;
 color: green;
