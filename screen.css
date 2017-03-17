@@ -1,0 +1,66 @@
+body {
+	font-family: Arial, sans-serif, "Times New Roman";
+	text-align: center;
+	background-color: #B4BBBD;
+}
+
+a:link, a:visited {
+	color: #2149DF;
+	text-decoration: underline;
+} 
+
+/*makes links light red*/
+a:hover, a:active {
+	color: red;
+} 
+
+#footer {
+	background-color: yellow;
+	padding: 1em;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    list-style: none;
+}
+
+#container_index {
+	background-color: #B4BBBD;
+	color: green;
+}
+
+#header_cod {
+	background-color: #FCE60A;
+	color: black;
+}
+
+
+#container_cod {
+	background-color: #101010;
+	color: white;
+	width: 97%;
+	padding: 1em;
+}
+
+#header_massage {
+	background-color: #2149DF;
+	color: #46E639;
+}
+
+#container_massage {
+  	background-color: #46E639;
+	color: blue;
+	width: 97%;
+	padding: 1em;
+
+}
+
+#header_resume, #container_resume {
+	background-color: #2149DF;
+	color: white;
+	width: 97%;
+	padding: 1em;
+}
