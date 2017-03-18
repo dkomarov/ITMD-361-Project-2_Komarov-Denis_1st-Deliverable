@@ -14,7 +14,7 @@ a:hover, a:active {
 	color: red;
 } 
 
-footer {
+header, footer {
 	background-color: yellow;
 	padding: 1em;
 }
