@@ -28,20 +28,22 @@ li {
 }
 
 #container_index {
+	width: 100%;
 	background-color: #B4BBBD;
 	color: green;
 }
 
 #header_cod {
+	width: 100%;
 	background-color: #FCE60A;
 	color: black;
 }
 
 
 #container_cod {
+	width: 97%;
 	background-color: #101010;
 	color: white;
-	width: 97%;
 	padding: 1em;
 }
 
@@ -51,16 +53,16 @@ li {
 }
 
 #container_massage {
+	width: 97%;
   	background-color: #46E639;
 	color: blue;
-	width: 97%;
 	padding: 1em;
 
 }
 
 #header_resume, #container_resume {
+	width: 97%;
 	background-color: #2149DF;
 	color: white;
-	width: 97%;
 	padding: 1em;
 }
